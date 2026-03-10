@@ -1,20 +1,36 @@
-# analisis-limpieza-datos-python
-
-Proyecto de análisis de datos en Python: limpieza, exploración, visualización y descubrimiento de insights para la toma de decisiones. Utiliza **Python** y **Pandas** para procesar y analizar datasets de manera eficiente.
+# Análisis y limpieza de datos con Python
 
 ## Descripción
-Este proyecto tiene como objetivo demostrar habilidades en **limpieza y análisis de datos** mediante Python. Incluye:  
-- Exploración inicial del dataset.  
-- Identificación y manejo de valores faltantes o inconsistentes.  
-- Eliminación de duplicados y corrección de formatos incorrectos.  
-- Análisis estadístico y visualización de variables para identificar patrones.  
-- Generación de insights prácticos a partir de los datos.  
+Proyecto de análisis de datos en Python enfocado en la limpieza, exploración y visualización de datos para obtener insights útiles para la toma de decisiones.
+
+El objetivo es demostrar habilidades en el manejo y transformación de datasets utilizando herramientas de análisis de datos en Python.
+
+## Objetivos del proyecto
+- Limpiar y preparar los datos para su análisis
+- Identificar valores faltantes e inconsistencias
+- Analizar variables y patrones dentro del dataset
+- Generar insights que apoyen la toma de decisiones
+
+## Proceso de análisis
+
+1. Exploración inicial del dataset
+2. Identificación de valores faltantes
+3. Eliminación de duplicados
+4. Corrección de formatos incorrectos
+5. Análisis exploratorio de datos
+6. Visualización de patrones y tendencias
 
 ## Herramientas utilizadas
-- Python 3.x  
-- Pandas  
-- NumPy  
-- Matplotlib / Seaborn (opcional para visualización)  
-- Jupyter Notebook  
 
-## Estructura del proyecto
+- Python 3
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Resultados
+
+Durante el análisis se identificaron patrones relevantes dentro del dataset que permiten comprender mejor el comportamiento de las variables analizadas.
+
+Este tipo de análisis permite mejorar la calidad de los datos y facilitar futuras decisiones basadas en información confiable.
