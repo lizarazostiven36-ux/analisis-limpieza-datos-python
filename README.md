@@ -122,6 +122,16 @@ analisis-limpieza-datos-python/
 - Jupyter Notebook
 
 ---
+## Visualizaciones
+
+### Boxplot – Distribución de JamsDelay
+![Boxplot](boxplot_jams_delay.png)
+
+### Histograma – PIB per cápita
+![Histograma](histograma_pib.png)
+
+### Comparación JamsDelay vs PIB por ciudad
+![Barras](barras_comparacion.png)
 
 ## Autor
 
